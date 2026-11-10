@@ -1,0 +1,119 @@
+{
+ "week": "Mon 16 to Sat 21 November 2026",
+ "jobs": [
+  {
+   "id": "2026-11-16-me-falls",
+   "date": "2026-11-16",
+   "brand": "me",
+   "instagram": "medicationevidence",
+   "card": {
+    "photo": "pexels:2610963",
+    "fx": 0.5,
+    "fy": 0.6,
+    "eyebrow": "Falls & mobility",
+    "headline": "A fall on medication can become a *second injury.*",
+    "sub": "Dizziness, unsteadiness and blurred vision belong in the chronology."
+   },
+   "story": {
+    "eyebrow": "New evidence guide",
+    "line": "Read the full guide on our website",
+    "line2": "medicationevidence.com/insights"
+   }
+  },
+  {
+   "id": "2026-11-17-me-brain-fog",
+   "date": "2026-11-17",
+   "brand": "me",
+   "instagram": "medicationevidence",
+   "card": {
+    "photo": "pexels:11091976",
+    "fx": 0.5,
+    "fy": 0.3,
+    "eyebrow": "Cognition",
+    "headline": "Brain fog isn’t always *the injury.*",
+    "sub": "Memory, focus and reaction time can change with sedating medicines."
+   },
+   "story": {
+    "eyebrow": "New evidence guide",
+    "line": "Read the full guide on our website",
+    "line2": "medicationevidence.com/insights"
+   }
+  },
+  {
+   "id": "2026-11-18-me-hidden-harms",
+   "date": "2026-11-18",
+   "brand": "me",
+   "instagram": "medicationevidence",
+   "card": {
+    "photo": "pexels:4308060",
+    "fx": 0.5,
+    "fy": 0.4,
+    "eyebrow": "Hidden harms",
+    "headline": "The side effect *nobody asks about.*",
+    "sub": "Sexual side effects can affect mood, relationships and recovery."
+   },
+   "story": {
+    "eyebrow": "New evidence guide",
+    "line": "Read the full guide on our website",
+    "line2": "medicationevidence.com/insights"
+   }
+  },
+  {
+   "id": "2026-11-19-me-steroids",
+   "date": "2026-11-19",
+   "brand": "me",
+   "instagram": "medicationevidence",
+   "card": {
+    "photo": "pexels:3873150",
+    "fx": 0.5,
+    "fy": 0.5,
+    "eyebrow": "Secondary conditions",
+    "headline": "Steroids can help. They can also *leave a mark.*",
+    "sub": "Sleep, mood, blood sugar, bone and muscle changes belong in the chronology."
+   },
+   "story": {
+    "eyebrow": "New evidence guide",
+    "line": "Read the full guide on our website",
+    "line2": "medicationevidence.com/insights"
+   }
+  },
+  {
+   "id": "2026-11-20-me-emerging-therapies",
+   "date": "2026-11-20",
+   "brand": "me",
+   "instagram": "medicationevidence",
+   "card": {
+    "photo": "pexels:9064679",
+    "fx": 0.5,
+    "fy": 0.45,
+    "eyebrow": "Emerging therapies",
+    "headline": "‘Approved’ can be a *misleading shorthand.*",
+    "sub": "Psilocybin and MDMA therapy in Australia: tightly controlled and indication-specific."
+   },
+   "story": {
+    "eyebrow": "New evidence guide",
+    "line": "Read the full guide on our website",
+    "line2": "medicationevidence.com/insights"
+   }
+  },
+  {
+   "id": "2026-11-21-me-dry-mouth",
+   "date": "2026-11-21",
+   "brand": "me",
+   "instagram": "medicationevidence",
+   "card": {
+    "photo": "pexels:19976568",
+    "fx": 0.45,
+    "fy": 0.5,
+    "eyebrow": "Dry mouth & dental health",
+    "headline": "Dry mouth today. *Dental problems later?*",
+    "sub": "Amitriptyline and similar medicines can reduce saliva, which protects your teeth."
+   },
+   "story": {
+    "eyebrow": "New evidence guide",
+    "line": "Read the full guide on our website",
+    "line2": "medicationevidence.com/insights"
+   }
+  }
+ ]
+}
