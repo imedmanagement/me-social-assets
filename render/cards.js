@@ -36,6 +36,9 @@
   function wrap(ctx, text, maxW) { const ws = text.split(/\s+/); const ls = []; let cur = ''; for (const w of ws) { const t = cur ? cur + ' ' + w : w; if (ctx.measureText(t).width > maxW && cur) { ls.push(cur); cur = w; } else cur = t; } if (cur) ls.push(cur); return ls; }
   function rr(ctx, x, y, w, h, r) { ctx.beginPath(); ctx.moveTo(x + r, y); ctx.arcTo(x + w, y, x + w, y + h, r); ctx.arcTo(x + w, y + h, x, y + h, r); ctx.arcTo(x, y + h, x, y, r); ctx.arcTo(x, y, x + w, y, r); ctx.closePath(); }
   const toBlob = (cv) => new Promise((r) => cv.toBlob(r, 'image/jpeg', 0.92));
+  // Layout guard: text must fit its space and nothing may pass the card edges. Problems fail the render.
+  let PROBLEMS = [];
+  const check = (ok, msg) => { if (!ok) PROBLEMS.push(msg); };
 
   async function card(spec) {
     await fonts();
@@ -44,10 +47,12 @@
     let hs = spec.headlineSize || 72; const ss = spec.subSize || 31, lh = 1.06, top0 = 104, maxBottom = 620;
     const measure = (h) => { const lay = layout(ctx, spec.headline, h, W - PAD * 2); ctx.font = `400 ${ss}px Manrope`; const sub = wrap(ctx, spec.sub, W - PAD * 2 - 20); const hH = lay.lines.length * h * lh; return { lay, sub, hH, total: 25 + 44 + hH + 30 + sub.length * ss * 1.42 }; };
     let m = measure(hs); while (top0 + m.total > maxBottom && hs > 50) { hs -= 2; m = measure(hs); }
+    check(top0 + m.total <= maxBottom, 'headline and subline too long: they would run into the photo');
+    check(m.lay.lines.every((l) => l.reduce((s2, t) => s2 + t.ww, 0) + (l.length - 1) * m.lay.sp <= W - PAD * 2 + 1), 'a headline line is wider than the card');
     ctx.fillStyle = '#F3F7F7'; ctx.fillRect(0, 0, W, H);
     let y = top0;
     ctx.fillStyle = '#0F4C5C'; ctx.fillRect(PAD, y + 5, 56, 3);
-    ctx.font = '700 25px Manrope'; ctx.letterSpacing = '4px'; ctx.fillText(spec.eyebrow.toUpperCase(), PAD + 78, y + 17); ctx.letterSpacing = '0px';
+    ctx.font = '700 25px Manrope'; ctx.letterSpacing = '4px'; check(ctx.measureText(spec.eyebrow.toUpperCase()).width <= W - PAD * 2 - 78, 'eyebrow wider than the card'); ctx.fillText(spec.eyebrow.toUpperCase(), PAD + 78, y + 17); ctx.letterSpacing = '0px';
     y += 25 + 44 + hs * 0.82;
     m.lay.lines.forEach((line, i) => { let cx = PAD; line.forEach((t) => { ctx.font = t.italic ? HF.ital(hs) : HF.reg(hs); ctx.fillStyle = t.italic ? '#0F4C5C' : '#2F3E46'; ctx.fillText(t.w, cx, y + i * hs * lh); cx += t.ww + m.lay.sp; }); });
     y += m.hH - hs * 0.82 + 30;
@@ -71,16 +76,18 @@
     ctx.fillStyle = '#8BC4B9'; ctx.font = '700 26px Manrope'; ctx.letterSpacing = '6px'; ctx.fillText(o.eyebrow.toUpperCase(), SW / 2, 225); ctx.letterSpacing = '0px';
     ctx.save(); ctx.shadowColor = 'rgba(0,0,0,0.35)'; ctx.shadowBlur = 44; ctx.shadowOffsetY = 16; rr(ctx, x, y, cw, ch, r); ctx.fillStyle = '#0C3039'; ctx.fill(); ctx.restore();
     ctx.save(); rr(ctx, x, y, cw, ch, r); ctx.clip(); ctx.drawImage(img, x, y, cw, ch); ctx.restore();
-    ctx.fillStyle = '#ffffff'; ctx.font = '600 36px Manrope'; ctx.fillText(o.line, SW / 2, y + ch + 96);
-    if (o.line2) { ctx.fillStyle = '#8BC4B9'; ctx.font = '500 29px Manrope'; ctx.fillText(o.line2, SW / 2, y + ch + 148); }
+    ctx.fillStyle = '#ffffff'; ctx.font = '600 36px Manrope'; check(ctx.measureText(o.line).width <= SW - 140, 'story line too wide'); ctx.fillText(o.line, SW / 2, y + ch + 96);
+    if (o.line2) { ctx.fillStyle = '#8BC4B9'; ctx.font = '500 29px Manrope'; check(ctx.measureText(o.line2).width <= SW - 140, 'story second line too wide'); ctx.fillText(o.line2, SW / 2, y + ch + 148); }
     ctx.textAlign = 'left';
     return toBlob(cv);
   }
 
   const b64 = async (blob) => { const u8 = new Uint8Array(await blob.arrayBuffer()); let s = ''; for (let i = 0; i < u8.length; i += 0x8000) s += String.fromCharCode.apply(null, u8.subarray(i, i + 0x8000)); return btoa(s); };
   window.renderJob = async (job) => {
+    PROBLEMS = [];
     const c = await card(job.card);
     const st = job.story ? await story(c, job.story) : null;
+    if (PROBLEMS.length) throw new Error('layout: ' + PROBLEMS.join('; '));
     return { card: await b64(c), story: st ? await b64(st) : null };
   };
 })();
