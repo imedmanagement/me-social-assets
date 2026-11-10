@@ -1,0 +1,8 @@
+{
+ "repo": "imedmanagement/me-social-assets",
+ "note": "Brands allowed in this repo and their only accounts. Read by tools/validate-posts.mjs.",
+ "brands": {
+  "ME": { "facebook": "1455741870949666", "linkedin": "144048182", "instagram": "17841409410335438", "link_prefix": "https://medicationevidence.com/", "required_consumer_line": "Please don't stop or change a medication without speaking to your prescriber first." }
+ },
+ "forbidden_terms": ["imedmanagement", "Independent Med Management", "IMM Academy", "LAUNCH50"]
+}
