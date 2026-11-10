@@ -1,9 +1,9 @@
 {
- "week": "Mon 16 to Sat 21 November 2026",
+ "week": "Tue 10 to Mon 16 November 2026",
  "jobs": [
   {
-   "id": "2026-11-16-me-falls",
-   "date": "2026-11-16",
+   "id": "2026-11-10-me-falls",
+   "date": "2026-11-10",
    "brand": "me",
    "instagram": "medicationevidence",
    "card": {
@@ -21,8 +21,8 @@
    }
   },
   {
-   "id": "2026-11-17-me-brain-fog",
-   "date": "2026-11-17",
+   "id": "2026-11-11-me-brain-fog",
+   "date": "2026-11-11",
    "brand": "me",
    "instagram": "medicationevidence",
    "card": {
@@ -40,8 +40,8 @@
    }
   },
   {
-   "id": "2026-11-18-me-hidden-harms",
-   "date": "2026-11-18",
+   "id": "2026-11-12-me-hidden-harms",
+   "date": "2026-11-12",
    "brand": "me",
    "instagram": "medicationevidence",
    "card": {
@@ -59,8 +59,8 @@
    }
   },
   {
-   "id": "2026-11-19-me-steroids",
-   "date": "2026-11-19",
+   "id": "2026-11-13-me-steroids",
+   "date": "2026-11-13",
    "brand": "me",
    "instagram": "medicationevidence",
    "card": {
@@ -78,27 +78,8 @@
    }
   },
   {
-   "id": "2026-11-20-me-emerging-therapies",
-   "date": "2026-11-20",
-   "brand": "me",
-   "instagram": "medicationevidence",
-   "card": {
-    "photo": "pexels:9064679",
-    "fx": 0.5,
-    "fy": 0.45,
-    "eyebrow": "Emerging therapies",
-    "headline": "‘Approved’ can be a *misleading shorthand.*",
-    "sub": "Psilocybin and MDMA therapy in Australia: tightly controlled and indication-specific."
-   },
-   "story": {
-    "eyebrow": "New evidence guide",
-    "line": "Read the full guide on our website",
-    "line2": "medicationevidence.com/insights"
-   }
-  },
-  {
-   "id": "2026-11-21-me-dry-mouth",
-   "date": "2026-11-21",
+   "id": "2026-11-14-me-dry-mouth",
+   "date": "2026-11-14",
    "brand": "me",
    "instagram": "medicationevidence",
    "card": {
@@ -108,6 +89,25 @@
     "eyebrow": "Dry mouth & dental health",
     "headline": "Dry mouth today. *Dental problems later?*",
     "sub": "Amitriptyline and similar medicines can reduce saliva, which protects your teeth."
+   },
+   "story": {
+    "eyebrow": "New evidence guide",
+    "line": "Read the full guide on our website",
+    "line2": "medicationevidence.com/insights"
+   }
+  },
+  {
+   "id": "2026-11-16-me-emerging-therapies",
+   "date": "2026-11-16",
+   "brand": "me",
+   "instagram": "medicationevidence",
+   "card": {
+    "photo": "pexels:9064679",
+    "fx": 0.5,
+    "fy": 0.45,
+    "eyebrow": "Emerging therapies",
+    "headline": "‘Approved’ can be a *misleading shorthand.*",
+    "sub": "Psilocybin and MDMA therapy in Australia: tightly controlled and indication-specific."
    },
    "story": {
     "eyebrow": "New evidence guide",
