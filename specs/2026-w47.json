@@ -54,6 +54,24 @@
     "line": "Read the full guide on our website",
     "line2": "medicationevidence.com/insights"
    }
+  },
+  {
+   "id": "2026-11-20-me-antiseizure-falls",
+   "date": "2026-11-20",
+   "brand": "me",
+   "card": {
+    "photo": "pexels:4067795",
+    "fx": 0.5,
+    "fy": 0.5,
+    "eyebrow": "Falls & mobility",
+    "headline": "Unsteady since *a medicine changed?*",
+    "sub": "Antiseizure medicines may cause dizziness, double vision or unsteadiness, alongside real benefits."
+   },
+   "story": {
+    "eyebrow": "New evidence guide",
+    "line": "Read the full guide on our website",
+    "line2": "medicationevidence.com/insights"
+   }
   }
  ]
 }
