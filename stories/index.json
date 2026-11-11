@@ -67,5 +67,12 @@
     "brand": "me",
     "card": "https://raw.githubusercontent.com/imedmanagement/me-social-assets/main/cards/2026-11-19-me-muscle-relaxants-rtw.jpg",
     "story": "https://raw.githubusercontent.com/imedmanagement/me-social-assets/main/stories/2026-11-19-me-muscle-relaxants-rtw.jpg"
+  },
+  {
+    "id": "2026-11-20-me-antiseizure-falls",
+    "date": "2026-11-20",
+    "brand": "me",
+    "card": "https://raw.githubusercontent.com/imedmanagement/me-social-assets/main/cards/2026-11-20-me-antiseizure-falls.jpg",
+    "story": "https://raw.githubusercontent.com/imedmanagement/me-social-assets/main/stories/2026-11-20-me-antiseizure-falls.jpg"
   }
 ]
