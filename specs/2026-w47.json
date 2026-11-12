@@ -1,77 +1,95 @@
 {
- "week": "Tue 17 to Thu 19 November 2026 (first auto-generated batch)",
- "jobs": [
-  {
-   "id": "2026-11-17-me-opioids-driving",
-   "date": "2026-11-17",
-   "brand": "me",
-   "card": {
-    "photo": "pexels:4606336",
-    "fx": 0.5,
-    "fy": 0.5,
-    "eyebrow": "Driving & work safety",
-    "headline": "Strong pain relief can *change what's safe.*",
-    "sub": "Drowsiness and slowed thinking matter at the wheel and on the job."
-   },
-   "story": {
-    "eyebrow": "New evidence guide",
-    "line": "Read the full guide on our website",
-    "line2": "medicationevidence.com/insights"
-   }
-  },
-  {
-   "id": "2026-11-18-me-z-drugs-sleep",
-   "date": "2026-11-18",
-   "brand": "me",
-   "card": {
-    "photo": "pexels:6951509",
-    "fx": 0.5,
-    "fy": 0.5,
-    "eyebrow": "Sleep & fatigue",
-    "headline": "More hours asleep isn't always *better sleep.*",
-    "sub": "Sleeping tablets can help short term, and can also leave you foggy the next day."
-   },
-   "story": {
-    "eyebrow": "New evidence guide",
-    "line": "Read the full guide on our website",
-    "line2": "medicationevidence.com/insights"
-   }
-  },
-  {
-   "id": "2026-11-19-me-muscle-relaxants-rtw",
-   "date": "2026-11-19",
-   "brand": "me",
-   "card": {
-    "photo": "pexels:5667685",
-    "fx": 0.5,
-    "fy": 0.5,
-    "eyebrow": "Work capacity",
-    "headline": "Back at work, but *not quite yourself?*",
-    "sub": "Muscle relaxants can cause drowsiness, dizziness and weakness, especially alongside other medicines."
-   },
-   "story": {
-    "eyebrow": "New evidence guide",
-    "line": "Read the full guide on our website",
-    "line2": "medicationevidence.com/insights"
-   }
-  },
-  {
-   "id": "2026-11-20-me-antiseizure-falls",
-   "date": "2026-11-20",
-   "brand": "me",
-   "card": {
-    "photo": "pexels:4067795",
-    "fx": 0.5,
-    "fy": 0.5,
-    "eyebrow": "Falls & mobility",
-    "headline": "Unsteady since *a medicine changed?*",
-    "sub": "Antiseizure medicines may cause dizziness, double vision or unsteadiness, alongside real benefits."
-   },
-   "story": {
-    "eyebrow": "New evidence guide",
-    "line": "Read the full guide on our website",
-    "line2": "medicationevidence.com/insights"
-   }
-  }
- ]
+  "week": "Tue 17 to Thu 19 November 2026 (first auto-generated batch)",
+  "jobs": [
+    {
+      "id": "2026-11-17-me-opioids-driving",
+      "date": "2026-11-17",
+      "brand": "me",
+      "card": {
+        "photo": "pexels:4606336",
+        "fx": 0.5,
+        "fy": 0.5,
+        "eyebrow": "Driving & work safety",
+        "headline": "Strong pain relief can *change what's safe.*",
+        "sub": "Drowsiness and slowed thinking matter at the wheel and on the job."
+      },
+      "story": {
+        "eyebrow": "New evidence guide",
+        "line": "Read the full guide on our website",
+        "line2": "medicationevidence.com/insights"
+      }
+    },
+    {
+      "id": "2026-11-18-me-z-drugs-sleep",
+      "date": "2026-11-18",
+      "brand": "me",
+      "card": {
+        "photo": "pexels:6951509",
+        "fx": 0.5,
+        "fy": 0.5,
+        "eyebrow": "Sleep & fatigue",
+        "headline": "More hours asleep isn't always *better sleep.*",
+        "sub": "Sleeping tablets can help short term, and can also leave you foggy the next day."
+      },
+      "story": {
+        "eyebrow": "New evidence guide",
+        "line": "Read the full guide on our website",
+        "line2": "medicationevidence.com/insights"
+      }
+    },
+    {
+      "id": "2026-11-19-me-muscle-relaxants-rtw",
+      "date": "2026-11-19",
+      "brand": "me",
+      "card": {
+        "photo": "pexels:5667685",
+        "fx": 0.5,
+        "fy": 0.5,
+        "eyebrow": "Work capacity",
+        "headline": "Back at work, but *not quite yourself?*",
+        "sub": "Muscle relaxants can cause drowsiness, dizziness and weakness, especially alongside other medicines."
+      },
+      "story": {
+        "eyebrow": "New evidence guide",
+        "line": "Read the full guide on our website",
+        "line2": "medicationevidence.com/insights"
+      }
+    },
+    {
+      "id": "2026-11-20-me-antiseizure-falls",
+      "date": "2026-11-20",
+      "brand": "me",
+      "card": {
+        "photo": "pexels:4067795",
+        "fx": 0.5,
+        "fy": 0.5,
+        "eyebrow": "Falls & mobility",
+        "headline": "Unsteady since *a medicine changed?*",
+        "sub": "Antiseizure medicines may cause dizziness, double vision or unsteadiness, alongside real benefits."
+      },
+      "story": {
+        "eyebrow": "New evidence guide",
+        "line": "Read the full guide on our website",
+        "line2": "medicationevidence.com/insights"
+      }
+    },
+    {
+      "id": "2026-11-21-me-anticholinergic-cognition",
+      "date": "2026-11-21",
+      "brand": "me",
+      "card": {
+        "photo": "pexels:8369254",
+        "fx": 0.5,
+        "fy": 0.5,
+        "eyebrow": "Cognition",
+        "headline": "Foggy thinking may come from *the whole list.*",
+        "sub": "Several ordinary medicines with anticholinergic effects may add up and affect memory."
+      },
+      "story": {
+        "eyebrow": "New evidence guide",
+        "line": "Read the full guide on our website",
+        "line2": "medicationevidence.com/insights"
+      }
+    }
+  ]
 }

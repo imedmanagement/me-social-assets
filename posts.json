@@ -1,203 +1,225 @@
 {
- "note": "Scheduled social posts, read by the 6:35am daily posting run. Each entry posts once, on its date (Australia/Brisbane).",
- "posts": [
-  {
-   "date": "2026-11-11",
-   "post": "ME2",
-   "brand": "ME",
-   "card": "https://raw.githubusercontent.com/imedmanagement/me-social-assets/main/cards/2026-11-11-me-brain-fog.jpg",
-   "story": "https://raw.githubusercontent.com/imedmanagement/me-social-assets/main/stories/2026-11-11-me-brain-fog.jpg",
-   "facebook": {
-    "account": "1455741870949666",
-    "caption": "Forgetting things, losing your train of thought or feeling foggy since your injury?\n\nIt's often put down to pain, stress or the injury itself. Sometimes medication plays a part. Sedating medicines such as diazepam, temazepam and other benzodiazepines can affect memory, concentration and reaction time, and the effect can build when they're combined with strong pain relievers, alcohol or other sedatives.\n\nThat can affect your work, your driving and your day-to-day life. Note when the fog started and whether it changed with a new medicine or a dose change, then raise it with your GP or pharmacist, and your lawyer if you have one.\n\nRead more: link in the first comment.\n\nPlease don't stop or change a medication without speaking to your prescriber first."
-   },
-   "linkedin": {
-    "account": "144048182",
-    "commentary": "Cognition is task-specific. A client may manage familiar routines at home yet struggle with divided attention, learning new procedures or accuracy under time pressure, which is exactly what a return-to-work plan tests.\n\nBenzodiazepines can give important short-term relief in severe anxiety, acute distress, insomnia or muscle spasm. Recognised concerns include sedation, slowed reaction time, memory impairment, falls, tolerance, dependence and withdrawal, with additive effects alongside opioids, alcohol or other sedatives.\n\nThe useful question is not whether a benzodiazepine can affect memory. It's whether the timing, dose, duration, interactions and response support a material contribution in this matter. That means baseline cognition and work demands, dose timing around reported symptoms, and what happened at each change.\n\nPopulation evidence informs the opinion. It doesn't replace the client's documented response.\n\nEvidence guide: link in the first comment.\n\n#PersonalInjuryLaw #ExpertEvidence #MedicoLegal"
-   },
-   "instagram": {
-    "account": "17841409410335438",
-    "caption": "Forgetting things, losing your train of thought or feeling foggy since your injury?\n\nIt's often put down to pain, stress or the injury itself. Sometimes medication plays a part. Sedating medicines such as diazepam, temazepam and other benzodiazepines can affect memory, concentration and reaction time, and the effect can build when they're combined with strong pain relievers, alcohol or other sedatives.\n\nThat can affect your work, your driving and your day-to-day life. Note when the fog started and whether it changed with a new medicine or a dose change, then raise it with your GP or pharmacist, and your lawyer if you have one.\n\nRead more: link in the first comment.\n\nPlease don't stop or change a medication without speaking to your prescriber first.\n\n#PersonalInjuryLaw #ExpertEvidence #MedicoLegal"
-   },
-   "first_comment": "Read the evidence guide: https://medicationevidence.com/insights/benzodiazepines-cognition-memory/",
-   "source": "me:benzodiazepines-cognition-memory"
-  },
-  {
-   "date": "2026-11-12",
-   "post": "ME3",
-   "brand": "ME",
-   "card": "https://raw.githubusercontent.com/imedmanagement/me-social-assets/main/cards/2026-11-12-me-hidden-harms.jpg",
-   "story": "https://raw.githubusercontent.com/imedmanagement/me-social-assets/main/stories/2026-11-12-me-hidden-harms.jpg",
-   "facebook": {
-    "account": "1455741870949666",
-    "caption": "The side effect nobody asks about.\n\nSome medicines prescribed after an injury, including some antidepressants and strong pain relievers, can affect sex drive, arousal and intimacy. It's common, it's rarely raised, and it can quietly affect your mood, your relationship and your confidence.\n\nYou don't have to go into detail with anyone you're not comfortable with. But if you've noticed changes since starting or changing a medication, it's worth raising with your GP or pharmacist. It's part of the full picture of how your injury and its treatment have affected your life.\n\nRead more: link in the first comment.\n\nPlease don't stop or change a medication without speaking to your prescriber first."
-   },
-   "linkedin": {
-    "account": "144048182",
-    "commentary": "Sexual adverse effects are among the most under-documented medication harms on an injury file. Clients feel embarrassed, clinicians focus on pain or mood, and claim forms rarely ask.\n\nSSRIs and SNRIs are well recognised causes, and Australian product information now warns that symptoms can persist after cessation in some patients. Opioids can affect endocrine function and contribute to reduced libido and erectile dysfunction. Antipsychotics, some antihypertensives and hormonal therapies may also be relevant, alongside the injury, pain and depression themselves.\n\nThe absence of an early complaint doesn't prove the absence of symptoms, but it does make a careful chronology and corroboration important. Done respectfully, with neutral language and only the information the referral needs, the impact on identity, relationships and wider recovery can be documented without sensationalising it.\n\nEvidence guide: link in the first comment.\n\n#PersonalInjuryLaw #MedicoLegal #ExpertEvidence"
-   },
-   "instagram": {
-    "account": "17841409410335438",
-    "caption": "The side effect nobody asks about.\n\nSome medicines prescribed after an injury, including some antidepressants and strong pain relievers, can affect sex drive, arousal and intimacy. It's common, it's rarely raised, and it can quietly affect your mood, your relationship and your confidence.\n\nYou don't have to go into detail with anyone you're not comfortable with. But if you've noticed changes since starting or changing a medication, it's worth raising with your GP or pharmacist. It's part of the full picture of how your injury and its treatment have affected your life.\n\nRead more: link in the first comment.\n\nPlease don't stop or change a medication without speaking to your prescriber first.\n\n#PersonalInjuryLaw #MedicoLegal #ExpertEvidence"
-   },
-   "first_comment": "Read the evidence guide: https://medicationevidence.com/insights/medication-sexual-dysfunction-relationships-social-connection/",
-   "source": "me:medication-sexual-dysfunction-relationships-social-connection"
-  },
-  {
-   "date": "2026-11-13",
-   "post": "ME4",
-   "brand": "ME",
-   "card": "https://raw.githubusercontent.com/imedmanagement/me-social-assets/main/cards/2026-11-13-me-steroids.jpg",
-   "story": "https://raw.githubusercontent.com/imedmanagement/me-social-assets/main/stories/2026-11-13-me-steroids.jpg",
-   "facebook": {
-    "account": "1455741870949666",
-    "caption": "Had courses of steroid tablets, such as prednisolone, since your injury?\n\nSteroids can calm inflammation quickly and help you get moving again. With higher doses, longer use or repeated courses, they can also affect sleep, mood, blood sugar, bones and muscle strength, and make infections more likely.\n\nIf a new problem has appeared since your treatment started, it may be connected. A new symptom isn't proof on its own, but it's worth noting when it started and raising it with your GP. If your treatment caused a new condition, your insurer or employer may be responsible for the care you need for it.\n\nRead more: link in the first comment.\n\nPlease don't stop or change a medication without speaking to your prescriber first."
-   },
-   "linkedin": {
-    "account": "144048182",
-    "commentary": "When does a recognised adverse effect become a clinically significant secondary condition?\n\nSystemic corticosteroids can preserve function and relieve pain by controlling inflammation quickly. Risk changes with dose, duration and repeated courses: sleep disturbance, mood change, raised glucose, infection risk, fluid retention, bone loss, muscle weakness and adrenal suppression.\n\nA new symptom after treatment is a signal to investigate, not automatic proof. Causation strengthens when timing, dose-response, biological plausibility, dechallenge and the absence of a better explanation line up. The chronology needs baseline symptoms, start, stop and dose-change dates, investigations and treating observations, and the competing explanations.\n\nThat's the difference between a plausible pathway and an opinion that holds.\n\nEvidence guide: link in the first comment.\n\n#PersonalInjuryLaw #WorkersCompensation #MedicoLegal"
-   },
-   "instagram": {
-    "account": "17841409410335438",
-    "caption": "Had courses of steroid tablets, such as prednisolone, since your injury?\n\nSteroids can calm inflammation quickly and help you get moving again. With higher doses, longer use or repeated courses, they can also affect sleep, mood, blood sugar, bones and muscle strength, and make infections more likely.\n\nIf a new problem has appeared since your treatment started, it may be connected. A new symptom isn't proof on its own, but it's worth noting when it started and raising it with your GP. If your treatment caused a new condition, your insurer or employer may be responsible for the care you need for it.\n\nRead more: link in the first comment.\n\nPlease don't stop or change a medication without speaking to your prescriber first.\n\n#PersonalInjuryLaw #WorkersCompensation #MedicoLegal"
-   },
-   "first_comment": "Read the evidence guide: https://medicationevidence.com/insights/systemic-corticosteroids-secondary-conditions/",
-   "source": "me:systemic-corticosteroids-secondary-conditions"
-  },
-  {
-   "date": "2026-11-14",
-   "post": "ME6",
-   "brand": "ME",
-   "card": "https://raw.githubusercontent.com/imedmanagement/me-social-assets/main/cards/2026-11-14-me-dry-mouth.jpg",
-   "story": "https://raw.githubusercontent.com/imedmanagement/me-social-assets/main/stories/2026-11-14-me-dry-mouth.jpg",
-   "facebook": {
-    "account": "1455741870949666",
-    "caption": "Taking amitriptyline for nerve pain or sleep since your injury?\n\nIt's often prescribed at a low dose at night, and it can help. It can also cause a dry mouth, constipation, dizziness when you stand up and daytime drowsiness.\n\nA dry mouth sounds minor, but saliva protects your teeth. If it goes on for months, it can contribute to dental problems. Mention it to your GP, pharmacist and dentist, and note when it started. Problems caused by treatment for your injury may be something your insurer or employer is responsible for.\n\nRead more: link in the first comment.\n\nPlease don't stop or change a medication without speaking to your prescriber first."
-   },
-   "linkedin": {
-    "account": "144048182",
-    "commentary": "Low-dose amitriptyline is one of the most common medicines on an injury file, often started for neuropathic pain, headache or sleep rather than depression.\n\nIt can genuinely help. A low night-time pain dose shouldn't be read as a psychiatric diagnosis, and removing an effective treatment carries its own risks.\n\nRecognised concerns include sedation, dry mouth, constipation, blurred vision, postural hypotension, urinary difficulty, cardiac effects and anticholinergic cognitive burden. Over months of use, some can become clinically significant secondary conditions: dental deterioration from persistent dry mouth, falls from postural hypotension, or cognitive slowing alongside other anticholinergic medicines.\n\nA recognised effect establishes a plausible pathway, not proof. The opinion needs the indication, doses and dates, the dental and clinical records, and the competing explanations.\n\nEvidence guide: link in the first comment.\n\n#PersonalInjuryLaw #WorkersCompensation #MedicoLegal"
-   },
-   "instagram": {
-    "account": "17841409410335438",
-    "caption": "Taking amitriptyline for nerve pain or sleep since your injury?\n\nIt's often prescribed at a low dose at night, and it can help. It can also cause a dry mouth, constipation, dizziness when you stand up and daytime drowsiness.\n\nA dry mouth sounds minor, but saliva protects your teeth. If it goes on for months, it can contribute to dental problems. Mention it to your GP, pharmacist and dentist, and note when it started. Problems caused by treatment for your injury may be something your insurer or employer is responsible for.\n\nRead more: link in the first comment.\n\nPlease don't stop or change a medication without speaking to your prescriber first.\n\n#PersonalInjuryLaw #WorkersCompensation #MedicoLegal"
-   },
-   "first_comment": "Read the evidence guide: https://medicationevidence.com/insights/tricyclic-antidepressants-secondary-conditions/",
-   "source": "me:tricyclic-antidepressants-secondary-conditions"
-  },
-  {
-   "date": "2026-11-16",
-   "post": "ME5",
-   "brand": "ME",
-   "card": "https://raw.githubusercontent.com/imedmanagement/me-social-assets/main/cards/2026-11-16-me-emerging-therapies.jpg",
-   "story": "https://raw.githubusercontent.com/imedmanagement/me-social-assets/main/stories/2026-11-16-me-emerging-therapies.jpg",
-   "facebook": {
-    "account": "1455741870949666",
-    "caption": "Heard that psilocybin and MDMA therapy are now available in Australia?\n\nHere's what actually changed. Since July 2023, a small number of specially authorised psychiatrists can use MDMA for PTSD and psilocybin for depression that hasn't responded to other treatment. It's delivered within a supervised therapy program, not a prescription you take home, and it isn't suitable for everyone.\n\nIf you're living with PTSD or depression after an injury, your treating psychiatrist is the right person to talk to about your options. Where future treatment is part of your claim, your lawyer may need evidence about what's realistic and what it would cost.\n\nRead more: link in the first comment.\n\nPlease don't stop or change a medication without speaking to your prescriber first."
-   },
-   "linkedin": {
-    "account": "144048182",
-    "commentary": "Since 1 July 2023, specifically authorised psychiatrists can access MDMA for PTSD and psilocybin for treatment-resistant depression under the TGA Authorised Prescriber pathway. It's imprecise to say Australia simply \"approved psychedelics\". Access is indication-specific, prescriber-specific and protocol-driven.\n\nFor future treatment arguments, possibility is not the same as reasonable necessity or probable benefit. A useful report separates trial outcomes from real-world access, identifies the approved indication, states the uncertainty and doesn't assume a client will qualify. Costs extend beyond the medicine to psychiatric assessment, psychotherapy sessions, monitoring and the treatment setting, so any future-needs estimate should be anchored to an actual proposal.\n\nNeither dismissal nor hype. A transparent, source-linked opinion.\n\nEvidence guide: link in the first comment.\n\n#PersonalInjuryLaw #PTSD #MedicoLegal"
-   },
-   "instagram": {
-    "account": "17841409410335438",
-    "caption": "Heard that psilocybin and MDMA therapy are now available in Australia?\n\nHere's what actually changed. Since July 2023, a small number of specially authorised psychiatrists can use MDMA for PTSD and psilocybin for depression that hasn't responded to other treatment. It's delivered within a supervised therapy program, not a prescription you take home, and it isn't suitable for everyone.\n\nIf you're living with PTSD or depression after an injury, your treating psychiatrist is the right person to talk to about your options. Where future treatment is part of your claim, your lawyer may need evidence about what's realistic and what it would cost.\n\nRead more: link in the first comment.\n\nPlease don't stop or change a medication without speaking to your prescriber first.\n\n#PersonalInjuryLaw #PTSD #MedicoLegal"
-   },
-   "first_comment": "Read the evidence guide: https://medicationevidence.com/insights/psilocybin-mdma-ptsd-treatment-resistant-depression-australia/",
-   "source": "me:psilocybin-mdma-ptsd-treatment-resistant-depression-australia"
-  },
-  {
-   "date": "2026-11-17",
-   "post": "ME7",
-   "brand": "ME",
-   "source": "me:opioids-driving-machinery",
-   "photo": "4606336",
-   "card": "https://raw.githubusercontent.com/imedmanagement/me-social-assets/main/cards/2026-11-17-me-opioids-driving.jpg",
-   "story": "https://raw.githubusercontent.com/imedmanagement/me-social-assets/main/stories/2026-11-17-me-opioids-driving.jpg",
-   "facebook": {
-    "account": "1455741870949666",
-    "caption": "Taking strong pain relief since your injury and unsure whether it's safe to drive or use machinery?\n\nOpioid pain relievers can help with pain, sleep and getting moving again. They can also cause drowsiness and slowed thinking, especially after a dose change or alongside other sedating medicines.\n\nWhat's safe depends on the medicine, whether your dose is stable, what else you take, your licence and the kind of work you do. If you've noticed you're slower or drowsier, tell your GP or pharmacist, and write down when it started.\n\nRead more: link in the first comment.\n\nPlease don't stop or change a medication without speaking to your prescriber first."
-   },
-   "linkedin": {
-    "account": "144048182",
-    "commentary": "Can a client drive, operate machinery or return to safety-critical work while taking opioids? Legal driving rules, medical fitness and workplace controls are related questions, but they are not the same question.\n\nRisk depends on the medicine, dose stability, experienced effects, combinations, licence class and the consequence of an error. Recognised concerns include dose-related sedation, cognitive slowing and additive effects with other sedatives.\n\nA useful opinion translates those effects into the client's actual tasks:\n• What changed after initiation, a dose increase or a new combination?\n• Are the reported effects consistent with the timing and dose?\n• What do the job demands, licence class and safety controls require?\n\nA recognised effect establishes a plausible pathway, not proof. Benefit should be measured in function as well as pain.\n\nEvidence guide: link in the first comment.\n\n#PersonalInjuryLaw #WorkersCompensation #MedicoLegal"
-   },
-   "instagram": {
-    "account": "17841409410335438",
-    "caption": "Taking strong pain relief since your injury and unsure whether it's safe to drive or use machinery?\n\nOpioid pain relievers can help with pain, sleep and getting moving again. They can also cause drowsiness and slowed thinking, especially after a dose change or alongside other sedating medicines.\n\nWhat's safe depends on the medicine, whether your dose is stable, what else you take, your licence and the kind of work you do. If you've noticed you're slower or drowsier, tell your GP or pharmacist, and write down when it started.\n\nRead more: link in the first comment.\n\nPlease don't stop or change a medication without speaking to your prescriber first.\n\n#PersonalInjuryLaw #WorkersCompensation #MedicoLegal"
-   },
-   "first_comment": "Read the evidence guide: https://medicationevidence.com/insights/opioids-driving-machinery/"
-  },
-  {
-   "date": "2026-11-18",
-   "post": "ME8",
-   "brand": "ME",
-   "source": "me:z-drug-sleep-medicines-fatigue-sleep",
-   "photo": "6951509",
-   "card": "https://raw.githubusercontent.com/imedmanagement/me-social-assets/main/cards/2026-11-18-me-z-drugs-sleep.jpg",
-   "story": "https://raw.githubusercontent.com/imedmanagement/me-social-assets/main/stories/2026-11-18-me-z-drugs-sleep.jpg",
-   "facebook": {
-    "account": "1455741870949666",
-    "caption": "Taking sleeping tablets since your injury but still waking up foggy?\n\nSleep medicines like zolpidem and zopiclone can help in the short term when poor sleep is making everything harder. They can also cause next-day drowsiness, memory gaps, unusual sleep behaviours and falls, especially alongside other sedating medicines.\n\nMore hours asleep doesn't always mean better rest. If you're drowsy during the day, note when it started and any dose changes, and talk to your GP or pharmacist.\n\nRead more: link in the first comment.\n\nPlease don't stop or change a medication without speaking to your prescriber first."
-   },
-   "linkedin": {
-    "account": "144048182",
-    "commentary": "Sedation is not the same as restorative sleep.\n\nZ-drug sleep medicines can help short-term insomnia where severe sleep loss is causing distress or functional decline. Recognised concerns include next-day impairment, amnesia, abnormal sleep behaviours, falls, tolerance, dependence and additive sedation.\n\nFor a claim, the useful question is what the medicine changes during the day:\n• Did daytime function improve, or did next-day slowing appear?\n• Do the timing and dose line up with the reported effects?\n• What else is contributing: pain, mood or other sedating medicines?\n\nGroup averages inform the opinion. They don't replace the client's documented response.\n\nEvidence guide: link in the first comment.\n\n#PersonalInjuryLaw #ExpertEvidence #MedicoLegal"
-   },
-   "instagram": {
-    "account": "17841409410335438",
-    "caption": "Taking sleeping tablets since your injury but still waking up foggy?\n\nSleep medicines like zolpidem and zopiclone can help in the short term when poor sleep is making everything harder. They can also cause next-day drowsiness, memory gaps, unusual sleep behaviours and falls, especially alongside other sedating medicines.\n\nMore hours asleep doesn't always mean better rest. If you're drowsy during the day, note when it started and any dose changes, and talk to your GP or pharmacist.\n\nRead more: link in the first comment.\n\nPlease don't stop or change a medication without speaking to your prescriber first.\n\n#PersonalInjuryLaw #ExpertEvidence #MedicoLegal"
-   },
-   "first_comment": "Read the evidence guide: https://medicationevidence.com/insights/z-drug-sleep-medicines-fatigue-sleep/"
-  },
-  {
-   "date": "2026-11-19",
-   "post": "ME9",
-   "brand": "ME",
-   "source": "me:muscle-relaxants-return-to-work",
-   "photo": "5667685",
-   "card": "https://raw.githubusercontent.com/imedmanagement/me-social-assets/main/cards/2026-11-19-me-muscle-relaxants-rtw.jpg",
-   "story": "https://raw.githubusercontent.com/imedmanagement/me-social-assets/main/stories/2026-11-19-me-muscle-relaxants-rtw.jpg",
-   "facebook": {
-    "account": "1455741870949666",
-    "caption": "Back at work after an injury but feeling drowsy, dizzy or weak?\n\nMuscle relaxants can ease spasm and help you move, sleep and get through early rehab. They can also cause drowsiness, dizziness and weakness, and the effects can add up when they're taken with strong pain relievers, some anxiety or sleep medicines, or alcohol.\n\nThat can affect your stamina, concentration and safety at work. Keep a note of how you feel on shift and when any medicine changed, and raise it with your GP or pharmacist.\n\nRead more: link in the first comment.\n\nPlease don't stop or change a medication without speaking to your prescriber first."
-   },
-   "linkedin": {
-    "account": "144048182",
-    "commentary": "Return to work depends on more than symptom control.\n\nAttendance, stamina, concentration, travel, shift timing, reliability and recovery after a shift can all change when treatment starts or changes. Skeletal muscle relaxants can support early rehabilitation by reducing spasm, but recognised concerns include drowsiness, dizziness, weakness, hypotension and additive impairment with opioids, benzodiazepines or alcohol.\n\nA short acute course and prolonged combination treatment raise different questions. A useful opinion addresses:\n• how long the client has taken it, and with what\n• whether reported work limitations track the timing and dose\n• which alternative explanations remain\n\nThe evidence should cut both ways: untreated symptoms carry their own harm too.\n\nEvidence guide: link in the first comment.\n\n#PersonalInjuryLaw #WorkersCompensation #ReturnToWork"
-   },
-   "instagram": {
-    "account": "17841409410335438",
-    "caption": "Back at work after an injury but feeling drowsy, dizzy or weak?\n\nMuscle relaxants can ease spasm and help you move, sleep and get through early rehab. They can also cause drowsiness, dizziness and weakness, and the effects can add up when they're taken with strong pain relievers, some anxiety or sleep medicines, or alcohol.\n\nThat can affect your stamina, concentration and safety at work. Keep a note of how you feel on shift and when any medicine changed, and raise it with your GP or pharmacist.\n\nRead more: link in the first comment.\n\nPlease don't stop or change a medication without speaking to your prescriber first.\n\n#PersonalInjuryLaw #WorkersCompensation #ReturnToWork"
-   },
-   "first_comment": "Read the evidence guide: https://medicationevidence.com/insights/muscle-relaxants-return-to-work/"
-  },
-  {
-   "date": "2026-11-20",
-   "post": "ME10",
-   "brand": "ME",
-   "source": "me:antiseizure-medicines-falls-dizziness-mobility",
-   "photo": "4067795",
-   "card": "https://raw.githubusercontent.com/imedmanagement/me-social-assets/main/cards/2026-11-20-me-antiseizure-falls.jpg",
-   "story": "https://raw.githubusercontent.com/imedmanagement/me-social-assets/main/stories/2026-11-20-me-antiseizure-falls.jpg",
-   "facebook": {
-    "account": "1455741870949666",
-    "caption": "Feeling dizzy, unsteady or seeing double since a medicine was started or changed?\n\nAntiseizure medicines are used for epilepsy and seizure prevention, and some are also used for nerve pain or migraine. Seizure control can be fundamental to independence, safety and work. Recognised side effects can include tiredness, dizziness, double vision and unsteadiness, and some of these medicines interact with others.\n\nFalls usually have more than one cause, such as the injury itself, weakness, vision, your surroundings and other medicines. Keep a note of any falls or near falls, when they happened and when any medicine changed, and raise it with your GP or pharmacist.\n\nRead more: link in the first comment.\n\nPlease don't stop or change a medication without speaking to your prescriber first."
-   },
-   "linkedin": {
-    "account": "144048182",
-    "commentary": "A fall after an accepted injury raises an obvious question: did treatment contribute?\n\nFalls usually have several contributors: the original injury, weakness, footwear, environment, vision, blood pressure, cognition and multiple medicines. For antiseizure medicines, recognised concerns include fatigue, dizziness, diplopia, ataxia, cognitive effects and clinically important interactions that vary substantially by agent. That is a plausible pathway, not proof.\n\nThese medicines may also be essential. Seizure control can be fundamental to independence, safety and work participation, and some agents reduce neuropathic pain or migraine burden. Class-wide assumptions are unsafe.\n\nA useful opinion maps:\n• the falls and near-fall chronology against dose changes and combinations\n• blood pressure, gait and neurological findings\n• home, community and workplace hazards that could explain the same events\n\nNear falls and loss of confidence may matter even without a documented injury.\n\nEvidence guide: link in the first comment.\n\n#PersonalInjuryLaw #MedicationSafety #FallsPrevention"
-   },
-   "instagram": {
-    "account": "17841409410335438",
-    "caption": "Feeling dizzy, unsteady or seeing double since a medicine was started or changed?\n\nAntiseizure medicines are used for epilepsy and seizure prevention, and some are also used for nerve pain or migraine. Seizure control can be fundamental to independence, safety and work. Recognised side effects can include tiredness, dizziness, double vision and unsteadiness, and some of these medicines interact with others.\n\nFalls usually have more than one cause, such as the injury itself, weakness, vision, your surroundings and other medicines. Keep a note of any falls or near falls, when they happened and when any medicine changed, and raise it with your GP or pharmacist.\n\nRead more: link in the first comment.\n\nPlease don't stop or change a medication without speaking to your prescriber first.\n\n#PersonalInjuryLaw #MedicationSafety #FallsPrevention"
-   },
-   "first_comment": "Read the evidence guide: https://medicationevidence.com/insights/antiseizure-medicines-falls-dizziness-mobility/"
-  }
- ],
- "used_before_schedule": [
-  "me:gabapentinoids-falls-dizziness-mobility",
-  "me:medication-harm-secondary-conditions-after-injury",
-  "me:pharmacist-medication-causation-report-legal-claims"
- ]
+  "note": "Scheduled social posts, read by the 6:35am daily posting run. Each entry posts once, on its date (Australia/Brisbane).",
+  "posts": [
+    {
+      "date": "2026-11-11",
+      "post": "ME2",
+      "brand": "ME",
+      "card": "https://raw.githubusercontent.com/imedmanagement/me-social-assets/main/cards/2026-11-11-me-brain-fog.jpg",
+      "story": "https://raw.githubusercontent.com/imedmanagement/me-social-assets/main/stories/2026-11-11-me-brain-fog.jpg",
+      "facebook": {
+        "account": "1455741870949666",
+        "caption": "Forgetting things, losing your train of thought or feeling foggy since your injury?\n\nIt's often put down to pain, stress or the injury itself. Sometimes medication plays a part. Sedating medicines such as diazepam, temazepam and other benzodiazepines can affect memory, concentration and reaction time, and the effect can build when they're combined with strong pain relievers, alcohol or other sedatives.\n\nThat can affect your work, your driving and your day-to-day life. Note when the fog started and whether it changed with a new medicine or a dose change, then raise it with your GP or pharmacist, and your lawyer if you have one.\n\nRead more: link in the first comment.\n\nPlease don't stop or change a medication without speaking to your prescriber first."
+      },
+      "linkedin": {
+        "account": "144048182",
+        "commentary": "Cognition is task-specific. A client may manage familiar routines at home yet struggle with divided attention, learning new procedures or accuracy under time pressure, which is exactly what a return-to-work plan tests.\n\nBenzodiazepines can give important short-term relief in severe anxiety, acute distress, insomnia or muscle spasm. Recognised concerns include sedation, slowed reaction time, memory impairment, falls, tolerance, dependence and withdrawal, with additive effects alongside opioids, alcohol or other sedatives.\n\nThe useful question is not whether a benzodiazepine can affect memory. It's whether the timing, dose, duration, interactions and response support a material contribution in this matter. That means baseline cognition and work demands, dose timing around reported symptoms, and what happened at each change.\n\nPopulation evidence informs the opinion. It doesn't replace the client's documented response.\n\nEvidence guide: link in the first comment.\n\n#PersonalInjuryLaw #ExpertEvidence #MedicoLegal"
+      },
+      "instagram": {
+        "account": "17841409410335438",
+        "caption": "Forgetting things, losing your train of thought or feeling foggy since your injury?\n\nIt's often put down to pain, stress or the injury itself. Sometimes medication plays a part. Sedating medicines such as diazepam, temazepam and other benzodiazepines can affect memory, concentration and reaction time, and the effect can build when they're combined with strong pain relievers, alcohol or other sedatives.\n\nThat can affect your work, your driving and your day-to-day life. Note when the fog started and whether it changed with a new medicine or a dose change, then raise it with your GP or pharmacist, and your lawyer if you have one.\n\nRead more: link in the first comment.\n\nPlease don't stop or change a medication without speaking to your prescriber first.\n\n#PersonalInjuryLaw #ExpertEvidence #MedicoLegal"
+      },
+      "first_comment": "Read the evidence guide: https://medicationevidence.com/insights/benzodiazepines-cognition-memory/",
+      "source": "me:benzodiazepines-cognition-memory"
+    },
+    {
+      "date": "2026-11-12",
+      "post": "ME3",
+      "brand": "ME",
+      "card": "https://raw.githubusercontent.com/imedmanagement/me-social-assets/main/cards/2026-11-12-me-hidden-harms.jpg",
+      "story": "https://raw.githubusercontent.com/imedmanagement/me-social-assets/main/stories/2026-11-12-me-hidden-harms.jpg",
+      "facebook": {
+        "account": "1455741870949666",
+        "caption": "The side effect nobody asks about.\n\nSome medicines prescribed after an injury, including some antidepressants and strong pain relievers, can affect sex drive, arousal and intimacy. It's common, it's rarely raised, and it can quietly affect your mood, your relationship and your confidence.\n\nYou don't have to go into detail with anyone you're not comfortable with. But if you've noticed changes since starting or changing a medication, it's worth raising with your GP or pharmacist. It's part of the full picture of how your injury and its treatment have affected your life.\n\nRead more: link in the first comment.\n\nPlease don't stop or change a medication without speaking to your prescriber first."
+      },
+      "linkedin": {
+        "account": "144048182",
+        "commentary": "Sexual adverse effects are among the most under-documented medication harms on an injury file. Clients feel embarrassed, clinicians focus on pain or mood, and claim forms rarely ask.\n\nSSRIs and SNRIs are well recognised causes, and Australian product information now warns that symptoms can persist after cessation in some patients. Opioids can affect endocrine function and contribute to reduced libido and erectile dysfunction. Antipsychotics, some antihypertensives and hormonal therapies may also be relevant, alongside the injury, pain and depression themselves.\n\nThe absence of an early complaint doesn't prove the absence of symptoms, but it does make a careful chronology and corroboration important. Done respectfully, with neutral language and only the information the referral needs, the impact on identity, relationships and wider recovery can be documented without sensationalising it.\n\nEvidence guide: link in the first comment.\n\n#PersonalInjuryLaw #MedicoLegal #ExpertEvidence"
+      },
+      "instagram": {
+        "account": "17841409410335438",
+        "caption": "The side effect nobody asks about.\n\nSome medicines prescribed after an injury, including some antidepressants and strong pain relievers, can affect sex drive, arousal and intimacy. It's common, it's rarely raised, and it can quietly affect your mood, your relationship and your confidence.\n\nYou don't have to go into detail with anyone you're not comfortable with. But if you've noticed changes since starting or changing a medication, it's worth raising with your GP or pharmacist. It's part of the full picture of how your injury and its treatment have affected your life.\n\nRead more: link in the first comment.\n\nPlease don't stop or change a medication without speaking to your prescriber first.\n\n#PersonalInjuryLaw #MedicoLegal #ExpertEvidence"
+      },
+      "first_comment": "Read the evidence guide: https://medicationevidence.com/insights/medication-sexual-dysfunction-relationships-social-connection/",
+      "source": "me:medication-sexual-dysfunction-relationships-social-connection"
+    },
+    {
+      "date": "2026-11-13",
+      "post": "ME4",
+      "brand": "ME",
+      "card": "https://raw.githubusercontent.com/imedmanagement/me-social-assets/main/cards/2026-11-13-me-steroids.jpg",
+      "story": "https://raw.githubusercontent.com/imedmanagement/me-social-assets/main/stories/2026-11-13-me-steroids.jpg",
+      "facebook": {
+        "account": "1455741870949666",
+        "caption": "Had courses of steroid tablets, such as prednisolone, since your injury?\n\nSteroids can calm inflammation quickly and help you get moving again. With higher doses, longer use or repeated courses, they can also affect sleep, mood, blood sugar, bones and muscle strength, and make infections more likely.\n\nIf a new problem has appeared since your treatment started, it may be connected. A new symptom isn't proof on its own, but it's worth noting when it started and raising it with your GP. If your treatment caused a new condition, your insurer or employer may be responsible for the care you need for it.\n\nRead more: link in the first comment.\n\nPlease don't stop or change a medication without speaking to your prescriber first."
+      },
+      "linkedin": {
+        "account": "144048182",
+        "commentary": "When does a recognised adverse effect become a clinically significant secondary condition?\n\nSystemic corticosteroids can preserve function and relieve pain by controlling inflammation quickly. Risk changes with dose, duration and repeated courses: sleep disturbance, mood change, raised glucose, infection risk, fluid retention, bone loss, muscle weakness and adrenal suppression.\n\nA new symptom after treatment is a signal to investigate, not automatic proof. Causation strengthens when timing, dose-response, biological plausibility, dechallenge and the absence of a better explanation line up. The chronology needs baseline symptoms, start, stop and dose-change dates, investigations and treating observations, and the competing explanations.\n\nThat's the difference between a plausible pathway and an opinion that holds.\n\nEvidence guide: link in the first comment.\n\n#PersonalInjuryLaw #WorkersCompensation #MedicoLegal"
+      },
+      "instagram": {
+        "account": "17841409410335438",
+        "caption": "Had courses of steroid tablets, such as prednisolone, since your injury?\n\nSteroids can calm inflammation quickly and help you get moving again. With higher doses, longer use or repeated courses, they can also affect sleep, mood, blood sugar, bones and muscle strength, and make infections more likely.\n\nIf a new problem has appeared since your treatment started, it may be connected. A new symptom isn't proof on its own, but it's worth noting when it started and raising it with your GP. If your treatment caused a new condition, your insurer or employer may be responsible for the care you need for it.\n\nRead more: link in the first comment.\n\nPlease don't stop or change a medication without speaking to your prescriber first.\n\n#PersonalInjuryLaw #WorkersCompensation #MedicoLegal"
+      },
+      "first_comment": "Read the evidence guide: https://medicationevidence.com/insights/systemic-corticosteroids-secondary-conditions/",
+      "source": "me:systemic-corticosteroids-secondary-conditions"
+    },
+    {
+      "date": "2026-11-14",
+      "post": "ME6",
+      "brand": "ME",
+      "card": "https://raw.githubusercontent.com/imedmanagement/me-social-assets/main/cards/2026-11-14-me-dry-mouth.jpg",
+      "story": "https://raw.githubusercontent.com/imedmanagement/me-social-assets/main/stories/2026-11-14-me-dry-mouth.jpg",
+      "facebook": {
+        "account": "1455741870949666",
+        "caption": "Taking amitriptyline for nerve pain or sleep since your injury?\n\nIt's often prescribed at a low dose at night, and it can help. It can also cause a dry mouth, constipation, dizziness when you stand up and daytime drowsiness.\n\nA dry mouth sounds minor, but saliva protects your teeth. If it goes on for months, it can contribute to dental problems. Mention it to your GP, pharmacist and dentist, and note when it started. Problems caused by treatment for your injury may be something your insurer or employer is responsible for.\n\nRead more: link in the first comment.\n\nPlease don't stop or change a medication without speaking to your prescriber first."
+      },
+      "linkedin": {
+        "account": "144048182",
+        "commentary": "Low-dose amitriptyline is one of the most common medicines on an injury file, often started for neuropathic pain, headache or sleep rather than depression.\n\nIt can genuinely help. A low night-time pain dose shouldn't be read as a psychiatric diagnosis, and removing an effective treatment carries its own risks.\n\nRecognised concerns include sedation, dry mouth, constipation, blurred vision, postural hypotension, urinary difficulty, cardiac effects and anticholinergic cognitive burden. Over months of use, some can become clinically significant secondary conditions: dental deterioration from persistent dry mouth, falls from postural hypotension, or cognitive slowing alongside other anticholinergic medicines.\n\nA recognised effect establishes a plausible pathway, not proof. The opinion needs the indication, doses and dates, the dental and clinical records, and the competing explanations.\n\nEvidence guide: link in the first comment.\n\n#PersonalInjuryLaw #WorkersCompensation #MedicoLegal"
+      },
+      "instagram": {
+        "account": "17841409410335438",
+        "caption": "Taking amitriptyline for nerve pain or sleep since your injury?\n\nIt's often prescribed at a low dose at night, and it can help. It can also cause a dry mouth, constipation, dizziness when you stand up and daytime drowsiness.\n\nA dry mouth sounds minor, but saliva protects your teeth. If it goes on for months, it can contribute to dental problems. Mention it to your GP, pharmacist and dentist, and note when it started. Problems caused by treatment for your injury may be something your insurer or employer is responsible for.\n\nRead more: link in the first comment.\n\nPlease don't stop or change a medication without speaking to your prescriber first.\n\n#PersonalInjuryLaw #WorkersCompensation #MedicoLegal"
+      },
+      "first_comment": "Read the evidence guide: https://medicationevidence.com/insights/tricyclic-antidepressants-secondary-conditions/",
+      "source": "me:tricyclic-antidepressants-secondary-conditions"
+    },
+    {
+      "date": "2026-11-16",
+      "post": "ME5",
+      "brand": "ME",
+      "card": "https://raw.githubusercontent.com/imedmanagement/me-social-assets/main/cards/2026-11-16-me-emerging-therapies.jpg",
+      "story": "https://raw.githubusercontent.com/imedmanagement/me-social-assets/main/stories/2026-11-16-me-emerging-therapies.jpg",
+      "facebook": {
+        "account": "1455741870949666",
+        "caption": "Heard that psilocybin and MDMA therapy are now available in Australia?\n\nHere's what actually changed. Since July 2023, a small number of specially authorised psychiatrists can use MDMA for PTSD and psilocybin for depression that hasn't responded to other treatment. It's delivered within a supervised therapy program, not a prescription you take home, and it isn't suitable for everyone.\n\nIf you're living with PTSD or depression after an injury, your treating psychiatrist is the right person to talk to about your options. Where future treatment is part of your claim, your lawyer may need evidence about what's realistic and what it would cost.\n\nRead more: link in the first comment.\n\nPlease don't stop or change a medication without speaking to your prescriber first."
+      },
+      "linkedin": {
+        "account": "144048182",
+        "commentary": "Since 1 July 2023, specifically authorised psychiatrists can access MDMA for PTSD and psilocybin for treatment-resistant depression under the TGA Authorised Prescriber pathway. It's imprecise to say Australia simply \"approved psychedelics\". Access is indication-specific, prescriber-specific and protocol-driven.\n\nFor future treatment arguments, possibility is not the same as reasonable necessity or probable benefit. A useful report separates trial outcomes from real-world access, identifies the approved indication, states the uncertainty and doesn't assume a client will qualify. Costs extend beyond the medicine to psychiatric assessment, psychotherapy sessions, monitoring and the treatment setting, so any future-needs estimate should be anchored to an actual proposal.\n\nNeither dismissal nor hype. A transparent, source-linked opinion.\n\nEvidence guide: link in the first comment.\n\n#PersonalInjuryLaw #PTSD #MedicoLegal"
+      },
+      "instagram": {
+        "account": "17841409410335438",
+        "caption": "Heard that psilocybin and MDMA therapy are now available in Australia?\n\nHere's what actually changed. Since July 2023, a small number of specially authorised psychiatrists can use MDMA for PTSD and psilocybin for depression that hasn't responded to other treatment. It's delivered within a supervised therapy program, not a prescription you take home, and it isn't suitable for everyone.\n\nIf you're living with PTSD or depression after an injury, your treating psychiatrist is the right person to talk to about your options. Where future treatment is part of your claim, your lawyer may need evidence about what's realistic and what it would cost.\n\nRead more: link in the first comment.\n\nPlease don't stop or change a medication without speaking to your prescriber first.\n\n#PersonalInjuryLaw #PTSD #MedicoLegal"
+      },
+      "first_comment": "Read the evidence guide: https://medicationevidence.com/insights/psilocybin-mdma-ptsd-treatment-resistant-depression-australia/",
+      "source": "me:psilocybin-mdma-ptsd-treatment-resistant-depression-australia"
+    },
+    {
+      "date": "2026-11-17",
+      "post": "ME7",
+      "brand": "ME",
+      "source": "me:opioids-driving-machinery",
+      "photo": "4606336",
+      "card": "https://raw.githubusercontent.com/imedmanagement/me-social-assets/main/cards/2026-11-17-me-opioids-driving.jpg",
+      "story": "https://raw.githubusercontent.com/imedmanagement/me-social-assets/main/stories/2026-11-17-me-opioids-driving.jpg",
+      "facebook": {
+        "account": "1455741870949666",
+        "caption": "Taking strong pain relief since your injury and unsure whether it's safe to drive or use machinery?\n\nOpioid pain relievers can help with pain, sleep and getting moving again. They can also cause drowsiness and slowed thinking, especially after a dose change or alongside other sedating medicines.\n\nWhat's safe depends on the medicine, whether your dose is stable, what else you take, your licence and the kind of work you do. If you've noticed you're slower or drowsier, tell your GP or pharmacist, and write down when it started.\n\nRead more: link in the first comment.\n\nPlease don't stop or change a medication without speaking to your prescriber first."
+      },
+      "linkedin": {
+        "account": "144048182",
+        "commentary": "Can a client drive, operate machinery or return to safety-critical work while taking opioids? Legal driving rules, medical fitness and workplace controls are related questions, but they are not the same question.\n\nRisk depends on the medicine, dose stability, experienced effects, combinations, licence class and the consequence of an error. Recognised concerns include dose-related sedation, cognitive slowing and additive effects with other sedatives.\n\nA useful opinion translates those effects into the client's actual tasks:\n• What changed after initiation, a dose increase or a new combination?\n• Are the reported effects consistent with the timing and dose?\n• What do the job demands, licence class and safety controls require?\n\nA recognised effect establishes a plausible pathway, not proof. Benefit should be measured in function as well as pain.\n\nEvidence guide: link in the first comment.\n\n#PersonalInjuryLaw #WorkersCompensation #MedicoLegal"
+      },
+      "instagram": {
+        "account": "17841409410335438",
+        "caption": "Taking strong pain relief since your injury and unsure whether it's safe to drive or use machinery?\n\nOpioid pain relievers can help with pain, sleep and getting moving again. They can also cause drowsiness and slowed thinking, especially after a dose change or alongside other sedating medicines.\n\nWhat's safe depends on the medicine, whether your dose is stable, what else you take, your licence and the kind of work you do. If you've noticed you're slower or drowsier, tell your GP or pharmacist, and write down when it started.\n\nRead more: link in the first comment.\n\nPlease don't stop or change a medication without speaking to your prescriber first.\n\n#PersonalInjuryLaw #WorkersCompensation #MedicoLegal"
+      },
+      "first_comment": "Read the evidence guide: https://medicationevidence.com/insights/opioids-driving-machinery/"
+    },
+    {
+      "date": "2026-11-18",
+      "post": "ME8",
+      "brand": "ME",
+      "source": "me:z-drug-sleep-medicines-fatigue-sleep",
+      "photo": "6951509",
+      "card": "https://raw.githubusercontent.com/imedmanagement/me-social-assets/main/cards/2026-11-18-me-z-drugs-sleep.jpg",
+      "story": "https://raw.githubusercontent.com/imedmanagement/me-social-assets/main/stories/2026-11-18-me-z-drugs-sleep.jpg",
+      "facebook": {
+        "account": "1455741870949666",
+        "caption": "Taking sleeping tablets since your injury but still waking up foggy?\n\nSleep medicines like zolpidem and zopiclone can help in the short term when poor sleep is making everything harder. They can also cause next-day drowsiness, memory gaps, unusual sleep behaviours and falls, especially alongside other sedating medicines.\n\nMore hours asleep doesn't always mean better rest. If you're drowsy during the day, note when it started and any dose changes, and talk to your GP or pharmacist.\n\nRead more: link in the first comment.\n\nPlease don't stop or change a medication without speaking to your prescriber first."
+      },
+      "linkedin": {
+        "account": "144048182",
+        "commentary": "Sedation is not the same as restorative sleep.\n\nZ-drug sleep medicines can help short-term insomnia where severe sleep loss is causing distress or functional decline. Recognised concerns include next-day impairment, amnesia, abnormal sleep behaviours, falls, tolerance, dependence and additive sedation.\n\nFor a claim, the useful question is what the medicine changes during the day:\n• Did daytime function improve, or did next-day slowing appear?\n• Do the timing and dose line up with the reported effects?\n• What else is contributing: pain, mood or other sedating medicines?\n\nGroup averages inform the opinion. They don't replace the client's documented response.\n\nEvidence guide: link in the first comment.\n\n#PersonalInjuryLaw #ExpertEvidence #MedicoLegal"
+      },
+      "instagram": {
+        "account": "17841409410335438",
+        "caption": "Taking sleeping tablets since your injury but still waking up foggy?\n\nSleep medicines like zolpidem and zopiclone can help in the short term when poor sleep is making everything harder. They can also cause next-day drowsiness, memory gaps, unusual sleep behaviours and falls, especially alongside other sedating medicines.\n\nMore hours asleep doesn't always mean better rest. If you're drowsy during the day, note when it started and any dose changes, and talk to your GP or pharmacist.\n\nRead more: link in the first comment.\n\nPlease don't stop or change a medication without speaking to your prescriber first.\n\n#PersonalInjuryLaw #ExpertEvidence #MedicoLegal"
+      },
+      "first_comment": "Read the evidence guide: https://medicationevidence.com/insights/z-drug-sleep-medicines-fatigue-sleep/"
+    },
+    {
+      "date": "2026-11-19",
+      "post": "ME9",
+      "brand": "ME",
+      "source": "me:muscle-relaxants-return-to-work",
+      "photo": "5667685",
+      "card": "https://raw.githubusercontent.com/imedmanagement/me-social-assets/main/cards/2026-11-19-me-muscle-relaxants-rtw.jpg",
+      "story": "https://raw.githubusercontent.com/imedmanagement/me-social-assets/main/stories/2026-11-19-me-muscle-relaxants-rtw.jpg",
+      "facebook": {
+        "account": "1455741870949666",
+        "caption": "Back at work after an injury but feeling drowsy, dizzy or weak?\n\nMuscle relaxants can ease spasm and help you move, sleep and get through early rehab. They can also cause drowsiness, dizziness and weakness, and the effects can add up when they're taken with strong pain relievers, some anxiety or sleep medicines, or alcohol.\n\nThat can affect your stamina, concentration and safety at work. Keep a note of how you feel on shift and when any medicine changed, and raise it with your GP or pharmacist.\n\nRead more: link in the first comment.\n\nPlease don't stop or change a medication without speaking to your prescriber first."
+      },
+      "linkedin": {
+        "account": "144048182",
+        "commentary": "Return to work depends on more than symptom control.\n\nAttendance, stamina, concentration, travel, shift timing, reliability and recovery after a shift can all change when treatment starts or changes. Skeletal muscle relaxants can support early rehabilitation by reducing spasm, but recognised concerns include drowsiness, dizziness, weakness, hypotension and additive impairment with opioids, benzodiazepines or alcohol.\n\nA short acute course and prolonged combination treatment raise different questions. A useful opinion addresses:\n• how long the client has taken it, and with what\n• whether reported work limitations track the timing and dose\n• which alternative explanations remain\n\nThe evidence should cut both ways: untreated symptoms carry their own harm too.\n\nEvidence guide: link in the first comment.\n\n#PersonalInjuryLaw #WorkersCompensation #ReturnToWork"
+      },
+      "instagram": {
+        "account": "17841409410335438",
+        "caption": "Back at work after an injury but feeling drowsy, dizzy or weak?\n\nMuscle relaxants can ease spasm and help you move, sleep and get through early rehab. They can also cause drowsiness, dizziness and weakness, and the effects can add up when they're taken with strong pain relievers, some anxiety or sleep medicines, or alcohol.\n\nThat can affect your stamina, concentration and safety at work. Keep a note of how you feel on shift and when any medicine changed, and raise it with your GP or pharmacist.\n\nRead more: link in the first comment.\n\nPlease don't stop or change a medication without speaking to your prescriber first.\n\n#PersonalInjuryLaw #WorkersCompensation #ReturnToWork"
+      },
+      "first_comment": "Read the evidence guide: https://medicationevidence.com/insights/muscle-relaxants-return-to-work/"
+    },
+    {
+      "date": "2026-11-20",
+      "post": "ME10",
+      "brand": "ME",
+      "source": "me:antiseizure-medicines-falls-dizziness-mobility",
+      "photo": "4067795",
+      "card": "https://raw.githubusercontent.com/imedmanagement/me-social-assets/main/cards/2026-11-20-me-antiseizure-falls.jpg",
+      "story": "https://raw.githubusercontent.com/imedmanagement/me-social-assets/main/stories/2026-11-20-me-antiseizure-falls.jpg",
+      "facebook": {
+        "account": "1455741870949666",
+        "caption": "Feeling dizzy, unsteady or seeing double since a medicine was started or changed?\n\nAntiseizure medicines are used for epilepsy and seizure prevention, and some are also used for nerve pain or migraine. Seizure control can be fundamental to independence, safety and work. Recognised side effects can include tiredness, dizziness, double vision and unsteadiness, and some of these medicines interact with others.\n\nFalls usually have more than one cause, such as the injury itself, weakness, vision, your surroundings and other medicines. Keep a note of any falls or near falls, when they happened and when any medicine changed, and raise it with your GP or pharmacist.\n\nRead more: link in the first comment.\n\nPlease don't stop or change a medication without speaking to your prescriber first."
+      },
+      "linkedin": {
+        "account": "144048182",
+        "commentary": "A fall after an accepted injury raises an obvious question: did treatment contribute?\n\nFalls usually have several contributors: the original injury, weakness, footwear, environment, vision, blood pressure, cognition and multiple medicines. For antiseizure medicines, recognised concerns include fatigue, dizziness, diplopia, ataxia, cognitive effects and clinically important interactions that vary substantially by agent. That is a plausible pathway, not proof.\n\nThese medicines may also be essential. Seizure control can be fundamental to independence, safety and work participation, and some agents reduce neuropathic pain or migraine burden. Class-wide assumptions are unsafe.\n\nA useful opinion maps:\n• the falls and near-fall chronology against dose changes and combinations\n• blood pressure, gait and neurological findings\n• home, community and workplace hazards that could explain the same events\n\nNear falls and loss of confidence may matter even without a documented injury.\n\nEvidence guide: link in the first comment.\n\n#PersonalInjuryLaw #MedicationSafety #FallsPrevention"
+      },
+      "instagram": {
+        "account": "17841409410335438",
+        "caption": "Feeling dizzy, unsteady or seeing double since a medicine was started or changed?\n\nAntiseizure medicines are used for epilepsy and seizure prevention, and some are also used for nerve pain or migraine. Seizure control can be fundamental to independence, safety and work. Recognised side effects can include tiredness, dizziness, double vision and unsteadiness, and some of these medicines interact with others.\n\nFalls usually have more than one cause, such as the injury itself, weakness, vision, your surroundings and other medicines. Keep a note of any falls or near falls, when they happened and when any medicine changed, and raise it with your GP or pharmacist.\n\nRead more: link in the first comment.\n\nPlease don't stop or change a medication without speaking to your prescriber first.\n\n#PersonalInjuryLaw #MedicationSafety #FallsPrevention"
+      },
+      "first_comment": "Read the evidence guide: https://medicationevidence.com/insights/antiseizure-medicines-falls-dizziness-mobility/"
+    },
+    {
+      "date": "2026-11-21",
+      "post": "ME11",
+      "brand": "ME",
+      "source": "me:anticholinergic-medicines-cognition-memory",
+      "photo": "8369254",
+      "card": "https://raw.githubusercontent.com/imedmanagement/me-social-assets/main/cards/2026-11-21-me-anticholinergic-cognition.jpg",
+      "story": "https://raw.githubusercontent.com/imedmanagement/me-social-assets/main/stories/2026-11-21-me-anticholinergic-cognition.jpg",
+      "facebook": {
+        "account": "1455741870949666",
+        "caption": "Forgetful, foggy or slower to think since a medicine was started or changed?\n\nMany ordinary medicines have anticholinergic effects. They're used for things like bladder symptoms, allergy, nausea, depression, movement disorders and sleep problems, and they can help. Recognised side effects can include dry mouth, constipation, blurred vision and confusion, and the load can build up across several medicines rather than one.\n\nPain, poor sleep, low mood and stress can also affect memory and concentration. Keep a list of all your medicines, note when anything changed and how you felt, and raise it with your GP or pharmacist.\n\nRead more: link in the first comment.\n\nPlease don't stop or change a medication without speaking to your prescriber first."
+      },
+      "linkedin": {
+        "account": "144048182",
+        "commentary": "Memory complaints after an injury are often tested against one medicine. With anticholinergic effects, the burden may sit across the whole list.\n\nAnticholinergic load can arise from several ordinary medicines rather than one obvious high-risk drug, used for bladder symptoms, allergy, nausea, depression, movement disorders and sleep-related complaints. Several modest contributors can create a material cumulative burden, especially in vulnerable people. Recognised concerns include confusion and cumulative cognitive or falls burden. That is a plausible pathway, not proof.\n\nCognition is also task-specific. A client may manage familiar home routines yet struggle with divided attention, complex decisions or accuracy under time pressure. Pain, poor sleep, depression, neurological illness and stress can mimic medicine-related cognitive effects.\n\nA useful opinion maps:\n• baseline cognition and education or work demands\n• dose timing around reported errors\n• sleep, pain and mental-health chronology, with objective assessment where available\n\nEvidence guide: link in the first comment.\n\n#PersonalInjuryLaw #MedicationSafety #ExpertEvidence"
+      },
+      "instagram": {
+        "account": "17841409410335438",
+        "caption": "Forgetful, foggy or slower to think since a medicine was started or changed?\n\nMany ordinary medicines have anticholinergic effects. They're used for things like bladder symptoms, allergy, nausea, depression, movement disorders and sleep problems, and they can help. Recognised side effects can include dry mouth, constipation, blurred vision and confusion, and the load can build up across several medicines rather than one.\n\nPain, poor sleep, low mood and stress can also affect memory and concentration. Keep a list of all your medicines, note when anything changed and how you felt, and raise it with your GP or pharmacist.\n\nRead more: link in the first comment.\n\nPlease don't stop or change a medication without speaking to your prescriber first.\n\n#PersonalInjuryLaw #MedicationSafety #ExpertEvidence"
+      },
+      "first_comment": "Read the evidence guide: https://medicationevidence.com/insights/anticholinergic-medicines-cognition-memory/"
+    }
+  ],
+  "used_before_schedule": [
+    "me:gabapentinoids-falls-dizziness-mobility",
+    "me:medication-harm-secondary-conditions-after-injury",
+    "me:pharmacist-medication-causation-report-legal-claims"
+  ]
 }
