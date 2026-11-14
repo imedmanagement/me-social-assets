@@ -81,5 +81,12 @@
     "brand": "me",
     "card": "https://raw.githubusercontent.com/imedmanagement/me-social-assets/main/cards/2026-11-21-me-anticholinergic-cognition.jpg",
     "story": "https://raw.githubusercontent.com/imedmanagement/me-social-assets/main/stories/2026-11-21-me-anticholinergic-cognition.jpg"
+  },
+  {
+    "id": "2026-11-23-me-nsaids-secondary",
+    "date": "2026-11-23",
+    "brand": "me",
+    "card": "https://raw.githubusercontent.com/imedmanagement/me-social-assets/main/cards/2026-11-23-me-nsaids-secondary.jpg",
+    "story": "https://raw.githubusercontent.com/imedmanagement/me-social-assets/main/stories/2026-11-23-me-nsaids-secondary.jpg"
   }
 ]
