@@ -1,0 +1,23 @@
+{
+  "week": "Mon 23 to Sat 28 November 2026",
+  "jobs": [
+    {
+      "id": "2026-11-23-me-nsaids-secondary",
+      "date": "2026-11-23",
+      "brand": "me",
+      "card": {
+        "photo": "pexels:39192358",
+        "fx": 0.5,
+        "fy": 0.5,
+        "eyebrow": "Secondary conditions",
+        "headline": "A familiar medicine can still *create material risk.*",
+        "sub": "Recognised NSAID concerns include gastrointestinal bleeding, kidney injury and fluid retention."
+      },
+      "story": {
+        "eyebrow": "New evidence guide",
+        "line": "Read the full guide on our website",
+        "line2": "medicationevidence.com/insights"
+      }
+    }
+  ]
+}
