@@ -18,6 +18,24 @@
         "line": "Read the full guide on our website",
         "line2": "medicationevidence.com/insights"
       }
+    },
+    {
+      "id": "2026-11-24-me-beta-blockers-sleep",
+      "date": "2026-11-24",
+      "brand": "me",
+      "card": {
+        "photo": "pexels:6941121",
+        "fx": 0.5,
+        "fy": 0.5,
+        "eyebrow": "Sleep & fatigue",
+        "headline": "Sedation is not the same as *restorative sleep.*",
+        "sub": "Recognised beta blocker concerns include fatigue, exercise intolerance, low blood pressure and sleep disturbance."
+      },
+      "story": {
+        "eyebrow": "New evidence guide",
+        "line": "Read the full guide on our website",
+        "line2": "medicationevidence.com/insights"
+      }
     }
   ]
 }
