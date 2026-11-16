@@ -36,6 +36,24 @@
         "line": "Read the full guide on our website",
         "line2": "medicationevidence.com/insights"
       }
+    },
+    {
+      "id": "2026-11-25-me-anticoagulants-rtw",
+      "date": "2026-11-25",
+      "brand": "me",
+      "card": {
+        "photo": "pexels:38867950",
+        "fx": 0.5,
+        "fy": 0.5,
+        "eyebrow": "Work capacity",
+        "headline": "Blood thinners and *getting back to work.*",
+        "sub": "Bleeding precautions matter, but a warning label is not proof of incapacity."
+      },
+      "story": {
+        "eyebrow": "New evidence guide",
+        "line": "Read the full guide on our website",
+        "line2": "medicationevidence.com/insights"
+      }
     }
   ]
 }
