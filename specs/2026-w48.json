@@ -1,59 +1,77 @@
 {
-  "week": "Mon 23 to Sat 28 November 2026",
-  "jobs": [
-    {
-      "id": "2026-11-23-me-nsaids-secondary",
-      "date": "2026-11-23",
-      "brand": "me",
-      "card": {
-        "photo": "pexels:39192358",
-        "fx": 0.5,
-        "fy": 0.5,
-        "eyebrow": "Secondary conditions",
-        "headline": "A familiar medicine can still *create material risk.*",
-        "sub": "Recognised NSAID concerns include gastrointestinal bleeding, kidney injury and fluid retention."
-      },
-      "story": {
-        "eyebrow": "New evidence guide",
-        "line": "Read the full guide on our website",
-        "line2": "medicationevidence.com/insights"
-      }
-    },
-    {
-      "id": "2026-11-24-me-beta-blockers-sleep",
-      "date": "2026-11-24",
-      "brand": "me",
-      "card": {
-        "photo": "pexels:6941121",
-        "fx": 0.5,
-        "fy": 0.5,
-        "eyebrow": "Sleep & fatigue",
-        "headline": "Sedation is not the same as *restorative sleep.*",
-        "sub": "Recognised beta blocker concerns include fatigue, exercise intolerance, low blood pressure and sleep disturbance."
-      },
-      "story": {
-        "eyebrow": "New evidence guide",
-        "line": "Read the full guide on our website",
-        "line2": "medicationevidence.com/insights"
-      }
-    },
-    {
-      "id": "2026-11-25-me-anticoagulants-rtw",
-      "date": "2026-11-25",
-      "brand": "me",
-      "card": {
-        "photo": "pexels:38867950",
-        "fx": 0.5,
-        "fy": 0.5,
-        "eyebrow": "Work capacity",
-        "headline": "Blood thinners and *getting back to work.*",
-        "sub": "Bleeding precautions matter, but a warning label is not proof of incapacity."
-      },
-      "story": {
-        "eyebrow": "New evidence guide",
-        "line": "Read the full guide on our website",
-        "line2": "medicationevidence.com/insights"
-      }
-    }
-  ]
+ "week": "Mon 23 to Sat 28 November 2026",
+ "jobs": [
+  {
+   "id": "2026-11-23-me-nsaids-secondary",
+   "date": "2026-11-23",
+   "brand": "me",
+   "card": {
+    "photo": "pexels:39192358",
+    "fx": 0.5,
+    "fy": 0.5,
+    "eyebrow": "Secondary conditions",
+    "headline": "A familiar medicine can still *create material risk.*",
+    "sub": "Recognised NSAID concerns include gastrointestinal bleeding, kidney injury and fluid retention."
+   },
+   "story": {
+    "eyebrow": "New evidence guide",
+    "line": "Read the full guide on our website",
+    "line2": "medicationevidence.com/insights"
+   }
+  },
+  {
+   "id": "2026-11-24-me-beta-blockers-sleep",
+   "date": "2026-11-24",
+   "brand": "me",
+   "card": {
+    "photo": "pexels:6941121",
+    "fx": 0.5,
+    "fy": 0.5,
+    "eyebrow": "Sleep & fatigue",
+    "headline": "Sedation is not the same as *restorative sleep.*",
+    "sub": "Recognised beta blocker concerns include fatigue, exercise intolerance, low blood pressure and sleep disturbance."
+   },
+   "story": {
+    "eyebrow": "New evidence guide",
+    "line": "Read the full guide on our website",
+    "line2": "medicationevidence.com/insights"
+   }
+  },
+  {
+   "id": "2026-11-25-me-anticoagulants-rtw",
+   "date": "2026-11-25",
+   "brand": "me",
+   "card": {
+    "photo": "pexels:38867950",
+    "fx": 0.5,
+    "fy": 0.5,
+    "eyebrow": "Work capacity",
+    "headline": "Blood thinners and *getting back to work.*",
+    "sub": "Bleeding precautions matter, but a warning label is not proof of incapacity."
+   },
+   "story": {
+    "eyebrow": "New evidence guide",
+    "line": "Read the full guide on our website",
+    "line2": "medicationevidence.com/insights"
+   }
+  },
+  {
+   "id": "2026-11-26-me-diabetes-driving",
+   "date": "2026-11-26",
+   "brand": "me",
+   "card": {
+    "photo": "pexels:15476331",
+    "fx": 0.5,
+    "fy": 0.5,
+    "eyebrow": "Driving & work safety",
+    "headline": "Diabetes medicines and *safety-critical work.*",
+    "sub": "Recognised concerns include low blood glucose, which can cause confusion, visual change or loss of consciousness."
+   },
+   "story": {
+    "eyebrow": "New evidence guide",
+    "line": "Read the full guide on our website",
+    "line2": "medicationevidence.com/insights"
+   }
+  }
+ ]
 }
