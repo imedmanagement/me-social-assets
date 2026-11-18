@@ -72,6 +72,24 @@
     "line": "Read the full guide on our website",
     "line2": "medicationevidence.com/insights"
    }
+  },
+  {
+   "id": "2026-11-27-me-antipsychotics-mood",
+   "date": "2026-11-27",
+   "brand": "me",
+   "card": {
+    "photo": "pexels:7929623",
+    "fx": 0.5,
+    "fy": 0.5,
+    "eyebrow": "Hidden harms",
+    "headline": "Antipsychotic medicines and *social recovery.*",
+    "sub": "Recognised concerns include sedation and emotional slowing: a plausible pathway, not proof."
+   },
+   "story": {
+    "eyebrow": "New evidence guide",
+    "line": "Read the full guide on our website",
+    "line2": "medicationevidence.com/insights"
+   }
   }
  ]
 }
