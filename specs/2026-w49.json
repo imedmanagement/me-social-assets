@@ -1,0 +1,23 @@
+{
+ "week": "Mon 30 November to Sat 5 December 2026",
+ "jobs": [
+  {
+   "id": "2026-11-30-me-antihistamines-secondary",
+   "date": "2026-11-30",
+   "brand": "me",
+   "card": {
+    "photo": "pexels:7579823",
+    "fx": 0.5,
+    "fy": 0.5,
+    "eyebrow": "Secondary conditions",
+    "headline": "Sedating antihistamines and *secondary conditions.*",
+    "sub": "Over-the-counter does not mean functionally harmless: a plausible pathway, not proof."
+   },
+   "story": {
+    "eyebrow": "New evidence guide",
+    "line": "Read the full guide on our website",
+    "line2": "medicationevidence.com/insights"
+   }
+  }
+ ]
+}
