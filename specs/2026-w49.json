@@ -18,6 +18,24 @@
     "line": "Read the full guide on our website",
     "line2": "medicationevidence.com/insights"
    }
+  },
+  {
+   "id": "2026-12-01-me-ssri-rtw",
+   "date": "2026-12-01",
+   "brand": "me",
+   "card": {
+    "photo": "pexels:39463020",
+    "fx": 0.5,
+    "fy": 0.5,
+    "eyebrow": "Work capacity",
+    "headline": "SSRIs and *getting back to work.*",
+    "sub": "Benefit and harm can coexist: a plausible pathway, not proof."
+   },
+   "story": {
+    "eyebrow": "New evidence guide",
+    "line": "Read the full guide on our website",
+    "line2": "medicationevidence.com/insights"
+   }
   }
  ]
 }
