@@ -36,6 +36,24 @@
     "line": "Read the full guide on our website",
     "line2": "medicationevidence.com/insights"
    }
+  },
+  {
+   "id": "2026-12-02-me-gabapentinoid-memory",
+   "date": "2026-12-02",
+   "brand": "me",
+   "card": {
+    "photo": "pexels:36713018",
+    "fx": 0.5,
+    "fy": 0.5,
+    "eyebrow": "Cognition",
+    "headline": "Gabapentinoids and *memory after injury.*",
+    "sub": "Task-specific effects, competing causes: a plausible pathway, not proof."
+   },
+   "story": {
+    "eyebrow": "New evidence guide",
+    "line": "Read the full guide on our website",
+    "line2": "medicationevidence.com/insights"
+   }
   }
  ]
 }
