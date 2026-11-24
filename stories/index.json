@@ -144,5 +144,12 @@
     "brand": "me",
     "card": "https://raw.githubusercontent.com/imedmanagement/me-social-assets/main/cards/2026-12-02-me-gabapentinoid-memory.jpg",
     "story": "https://raw.githubusercontent.com/imedmanagement/me-social-assets/main/stories/2026-12-02-me-gabapentinoid-memory.jpg"
+  },
+  {
+    "id": "2026-12-03-me-muscle-relaxant-falls",
+    "date": "2026-12-03",
+    "brand": "me",
+    "card": "https://raw.githubusercontent.com/imedmanagement/me-social-assets/main/cards/2026-12-03-me-muscle-relaxant-falls.jpg",
+    "story": "https://raw.githubusercontent.com/imedmanagement/me-social-assets/main/stories/2026-12-03-me-muscle-relaxant-falls.jpg"
   }
 ]
