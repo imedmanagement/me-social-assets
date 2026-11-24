@@ -54,6 +54,24 @@
     "line": "Read the full guide on our website",
     "line2": "medicationevidence.com/insights"
    }
+  },
+  {
+   "id": "2026-12-03-me-muscle-relaxant-falls",
+   "date": "2026-12-03",
+   "brand": "me",
+   "card": {
+    "photo": "pexels:24193871",
+    "fx": 0.5,
+    "fy": 0.5,
+    "eyebrow": "Falls & mobility",
+    "headline": "Muscle relaxants and *staying steady on your feet.*",
+    "sub": "Falls have several contributors: a plausible pathway, not proof."
+   },
+   "story": {
+    "eyebrow": "New evidence guide",
+    "line": "Read the full guide on our website",
+    "line2": "medicationevidence.com/insights"
+   }
   }
  ]
 }
