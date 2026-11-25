@@ -72,6 +72,24 @@
     "line": "Read the full guide on our website",
     "line2": "medicationevidence.com/insights"
    }
+  },
+  {
+   "id": "2026-12-04-me-corticosteroid-sleep",
+   "date": "2026-12-04",
+   "brand": "me",
+   "card": {
+    "photo": "pexels:6754022",
+    "fx": 0.5,
+    "fy": 0.5,
+    "eyebrow": "Sleep & fatigue",
+    "headline": "Corticosteroids and *sleep during recovery.*",
+    "sub": "Dose timing, sleep quality and next-day activity: a plausible pathway, not proof."
+   },
+   "story": {
+    "eyebrow": "New evidence guide",
+    "line": "Read the full guide on our website",
+    "line2": "medicationevidence.com/insights"
+   }
   }
  ]
 }
