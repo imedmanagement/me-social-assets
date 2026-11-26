@@ -90,6 +90,24 @@
     "line": "Read the full guide on our website",
     "line2": "medicationevidence.com/insights"
    }
+  },
+  {
+   "id": "2026-12-05-me-z-drug-driving",
+   "date": "2026-12-05",
+   "brand": "me",
+   "card": {
+    "photo": "pexels:6165395",
+    "fx": 0.5,
+    "fy": 0.5,
+    "eyebrow": "Driving & work safety",
+    "headline": "Sleep medicines and *driving the next day.*",
+    "sub": "Next-day impairment is a recognised concern: a plausible pathway, not proof."
+   },
+   "story": {
+    "eyebrow": "New evidence guide",
+    "line": "Read the full guide on our website",
+    "line2": "medicationevidence.com/insights"
+   }
   }
  ]
 }
