@@ -1,0 +1,23 @@
+{
+ "week": "Mon 7 December to Sat 12 December 2026",
+ "jobs": [
+  {
+   "id": "2026-12-07-me-opioids-secondary",
+   "date": "2026-12-07",
+   "brand": "me",
+   "card": {
+    "photo": "pexels:6129441",
+    "fx": 0.5,
+    "fy": 0.5,
+    "eyebrow": "Secondary conditions",
+    "headline": "Opioids and *secondary conditions.*",
+    "sub": "A recognised adverse effect is a reason to investigate: a plausible pathway, not proof."
+   },
+   "story": {
+    "eyebrow": "New evidence guide",
+    "line": "Read the full guide on our website",
+    "line2": "medicationevidence.com/insights"
+   }
+  }
+ ]
+}
